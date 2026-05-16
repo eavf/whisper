@@ -1,0 +1,11 @@
+openai-whisper
+torch
+torchaudio
+scipy
+pandas
+matplotlib
+ipywidgets
+ipykernel
+dtw-python
+tqdm
+jiwer
