@@ -9,3 +9,4 @@ ipykernel
 dtw-python
 tqdm
 jiwer
+python-docx
